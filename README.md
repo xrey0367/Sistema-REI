@@ -1,2 +1,2 @@
-# Sistema-de-Rastreamento-Esportivo-Inteligete---REI
-Sistema de Rastreamento Esportivo Inteligente (REI) para medição de distância vertical em tempo real usando Visão Computacional.
+#Sistema REI: Rastreamento Esportivo Inteligente
+Este projeto foi desenvolvido para realizar o rastreamento e a medição de distância vertical de membros do corpo em tempo real, utilizando Visão Computacional (MediaPipe e OpenCV), com foco na análise de performance esportiva.
